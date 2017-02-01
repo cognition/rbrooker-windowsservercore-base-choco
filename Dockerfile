@@ -2,7 +2,6 @@
 # windowsservercore
 FROM  microsoft/windowsservercore
 
-
 MAINTAINER Ramon Brooker <ramon.brooker@imaginecommunications.com>
 
 
